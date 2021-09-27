@@ -1,5 +1,7 @@
 # Yolov3(2019)를 Pytorch로 구현한 코드입니다.
 
+## 블로그 : https://heeyoung-alldata.tistory.com/2?category=886634
+
 
 ### Download pretrained weights on Pascal-VOC
 Available on Kaggle: [link](https://www.kaggle.com/dataset/1cf520aba05e023f2f80099ef497a8f3668516c39e6f673531e3e47407c46694)
