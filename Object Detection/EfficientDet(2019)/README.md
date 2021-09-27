@@ -1,6 +1,5 @@
 # EfficientDet(2019)를 Pytorch로 구현한 코드입니다.
 
-블로그 : https://heeyoung-alldata.tistory.com/2?category=886634
 
 ## Demo
 
