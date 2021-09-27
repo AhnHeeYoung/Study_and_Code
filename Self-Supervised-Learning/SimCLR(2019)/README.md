@@ -1,5 +1,7 @@
 # SimCLR에 대한 pytorch 구현 코드입니다.
 
+## 블로그 정리 : https://heeyoung-alldata.tistory.com/12?category=887858
+
 ## Installation
 
 ```
