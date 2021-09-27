@@ -1,0 +1,8 @@
+--------
+HOSTNAME = learningQ1
+SLURM_JOB_NAME = tr_mypre
+SLURM_CPUS_PER_TASK = 2
+CUDA_VISIBLE_DEVICES = 2
+--------
+Files already downloaded and verified
+Files already downloaded and verified
