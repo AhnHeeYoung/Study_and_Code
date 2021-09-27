@@ -1,0 +1,9 @@
+--------
+HOSTNAME = learningT1
+SLURM_JOB_NAME = tr
+SLURM_CPUS_PER_TASK = 4
+CUDA_VISIBLE_DEVICES = 3
+--------
+Class accuracy is: 32.398354%
+No obj accuracy is: 56.813908%
+Obj accuracy is: 91.336929%
