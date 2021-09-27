@@ -1,0 +1,46 @@
+/var/spool/slurm-llnl/d/job798912/slurm_script: line 22: nvcc: command not found
+/Arontier/People/hnefa335/anaconda3/envs/comet/lib/python3.7/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+/Arontier/People/hnefa335/anaconda3/envs/comet/lib/python3.7/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 12 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+/Arontier/People/hnefa335/anaconda3/envs/comet/lib/python3.7/site-packages/torch/optim/lr_scheduler.py:509: UserWarning: To get the last learning rate computed by the scheduler, please use `get_last_lr()`.
+  "please use `get_last_lr()`.", UserWarning)
+2021-09-24 10:26:23,104 - INFO - Epoch : 1/200, Batch : 1/390, loss : 6.362607479095459, acc_top1 : 0.9765625, acc_top5 : 2.734375
+2021-09-24 10:26:23,104 - INFO - batch : 1/390
+2021-09-24 10:26:23,104 - INFO - loss : 6.362607479095459
+2021-09-24 10:26:23,105 - INFO - acc/top1 : 0.9765625
+2021-09-24 10:26:23,105 - INFO - acc/top5 : 2.734375
+2021-09-24 10:26:23,105 - INFO - 
+
+2021-09-24 10:27:20,463 - INFO - Epoch : 1/200, Batch : 101/390, loss : 5.863332309345208, acc_top1 : 2.716970920562744, acc_top5 : 8.090965270996094
+2021-09-24 10:27:20,463 - INFO - batch : 101/390
+2021-09-24 10:27:20,463 - INFO - loss : 5.863332309345208
+2021-09-24 10:27:20,464 - INFO - acc/top1 : 2.716970920562744
+2021-09-24 10:27:20,465 - INFO - acc/top5 : 8.090965270996094
+2021-09-24 10:27:20,465 - INFO - 
+
+2021-09-24 10:28:19,706 - INFO - Epoch : 1/200, Batch : 201/390, loss : 5.539884296815787, acc_top1 : 5.244286060333252, acc_top5 : 13.804998397827148
+2021-09-24 10:28:19,707 - INFO - batch : 201/390
+2021-09-24 10:28:19,707 - INFO - loss : 5.539884296815787
+2021-09-24 10:28:19,709 - INFO - acc/top1 : 5.244286060333252
+2021-09-24 10:28:19,727 - INFO - acc/top5 : 13.804998397827148
+2021-09-24 10:28:19,727 - INFO - 
+
+2021-09-24 10:29:20,382 - INFO - Epoch : 1/200, Batch : 301/390, loss : 5.279336284561411, acc_top1 : 8.218697547912598, acc_top5 : 19.193832397460938
+2021-09-24 10:29:20,383 - INFO - batch : 301/390
+2021-09-24 10:29:20,383 - INFO - loss : 5.279336284561411
+2021-09-24 10:29:20,386 - INFO - acc/top1 : 8.218697547912598
+2021-09-24 10:29:20,413 - INFO - acc/top5 : 19.193832397460938
+2021-09-24 10:29:20,413 - INFO - 
+
+2021-09-24 10:30:08,496 - INFO - 
+
+2021-09-24 10:30:08,501 - INFO - Epoch : 1/200, Batch : 390/390, loss : 5.069548285924471, acc_top1 : 11.013622283935547, acc_top5 : 23.4860782623291
+Traceback (most recent call last):
+  File "run.py", line 89, in <module>
+    main()
+  File "run.py", line 85, in main
+    simclr.train(train_loader)
+  File "/Arontier/People/hnefa335/Self-Supervised-Learning/SimCLR/simclr.py", line 153, in train
+    torch.save(model.state_dict(), 'checkpoints/{}/Epoch {}, Loss {} acc_top1 {} acc_top5 {}'
+NameError: name 'model' is not defined

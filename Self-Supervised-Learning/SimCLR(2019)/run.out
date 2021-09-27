@@ -1,0 +1,7 @@
+--------
+HOSTNAME = learningQ1
+SLURM_JOB_NAME = sim
+SLURM_CPUS_PER_TASK = 4
+CUDA_VISIBLE_DEVICES = 0
+--------
+Files already downloaded and verified
