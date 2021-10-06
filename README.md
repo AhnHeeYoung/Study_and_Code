@@ -11,7 +11,7 @@
 
 ## Object Detection
 - YOLO v3(2019)       [블로그 논문 요약](https://heeyoung-alldata.tistory.com/2?category=886634) | Simple Code
-- EfficientDet(2019)  [블로그 논문 요약](https://heeyoung-alldata.tistory.com/15?category=886634) | Simple Code
+- EfficientDet(2019)  [블로그 논문 요약](https://heeyoung-alldata.tistory.com/15?category=886634) | Simple Code(https://github.com/AhnHeeYoung/Study_and_Code/tree/master/Object%20Detection/EfficientDet(2019))
 
 
 ## Segmentation
