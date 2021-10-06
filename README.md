@@ -6,11 +6,11 @@
 
 
 ## Classification
-- ViT(2020)    블로그 | Simple Code
+- ViT(2020)    [블로그](https://heeyoung-alldata.tistory.com/5?category=887040) | Simple Code
 
 
 ## Object Detection
-- EfficientDet(2019)
+- EfficientDet(2019) 
 
 
 ## Segmentation
