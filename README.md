@@ -6,7 +6,7 @@
 
 
 ## Classification
-- ViT(2020)
+- ViT(2020)   블로그 | Code
 
 
 ## Object Detection
