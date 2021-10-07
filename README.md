@@ -7,6 +7,7 @@
 
 ## Classification
 - ViT(2020)    [블로그 논문 요약](https://heeyoung-alldata.tistory.com/5?category=887040) | Simple Code
+- Swin Transformer(2021)  [블로그 논문 요약]| Simple Code
 
 
 ## Object Detection
