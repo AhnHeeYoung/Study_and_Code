@@ -18,7 +18,8 @@
 ## Segmentation
 - Hovernet(2018)      [블로그 논문 요약](https://heeyoung-alldata.tistory.com/27?category=886635) | Simple Code
 - Yolact(2019)        [블로그 논문 요약](https://heeyoung-alldata.tistory.com/22?category=886635) | Simple Code
-
+- Deep Multi-Magnification Networks for Multi-ClassBreast Cancer Image Segmentation 
+                      [블로그 논문 요약](https://heeyoung-alldata.tistory.com/37?category=886635) | Simple Code
 
 ## Pose Estimation
 - HRNet(2019)         [블로그 논문 요약](https://heeyoung-alldata.tistory.com/18?category=888937) | Simple Code
@@ -28,3 +29,5 @@
 ## Self, Semi supervised Learning
 - SimCLR v1 (2020)    [블로그 논문 요약](https://heeyoung-alldata.tistory.com/12?category=887858) | Simple Code
 
+## Image Augmentation
+- CutMix (2019)    [블로그 논문 요약](https://heeyoung-alldata.tistory.com/35?category=895637) | Simple Code
